@@ -1,3 +1,5 @@
+Recommended Python version: 3.9.0
+
 В данном репозитории представлены результаты исследования различных методов извлечения признаков из временных рядов (Быстрое преобразование Фурье, Вейвлет-преобразование, автоматическая генерация признаков). Для извлечения признаков использовались следующие python-библиотеки: PyWavelets, tsfresh, а также модуля scipy.fft.
 
 Использованный набор данных - Epileptic Seizure Recognition ( https://www.kaggle.com/datasets/harunshimanto/epileptic-seizure-recognition )
